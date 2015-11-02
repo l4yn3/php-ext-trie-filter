@@ -1,3 +1,7 @@
-###待提交更新
+###usage
 
+```
+make
+./trie_filter -i inputfile -o outfile
+```
 
